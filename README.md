@@ -1,4 +1,4 @@
-# Identification and Analysis of Key Predictive Features for Breast Cancer Outcomes: A Data-Driven Approach to Personalized Patient Care
+# Identification and analysis of key predictive features for breast cancer outcomes: A Data-Driven approach to personalized patient care
 
 ![pink-ribbon-for-breast-cancer-awareness](https://github.com/CourtneyD2326/Breast-Cancer-Data-Science-Project/assets/85933265/ede2c68c-31f9-4475-bbe6-04a15dcbd6cb)
 
